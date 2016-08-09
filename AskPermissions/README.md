@@ -10,6 +10,8 @@
 5. Success if all permissins granted ------ allPermissionsGranted()
 
 ## Permissions that require this method
+###### There are groups and permissions. You have to request only permissions, but if after that application have access to whole group!
+
 * Calendar (Group)
   * READ_CALENDAR (Permission)
   * WRITE_CALENDAR (Permission)
