@@ -10,7 +10,7 @@
 5. Success if all permissins granted ------ allPermissionsGranted()
 
 ## Permissions that require this method
-... CALENDAR
+   CALENDAR
 * READ_CALENDAR
 * WRITE_CALENDAR
 
