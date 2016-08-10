@@ -24,7 +24,7 @@ public class AskPermissionActivity extends AppCompatActivity {
         if (permissions.size() > 0) {
             ActivityCompat.requestPermissions(this, permissions.toArray(new String[permissions.size()]), PERMISSION_ACCESS_CODE);
         } else {
-            main();
+            allPermissionsGranted();
         }
     }
   
