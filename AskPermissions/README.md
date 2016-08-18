@@ -1,4 +1,4 @@
-# Ask Permissions properly
+# Ask Permissions properly Android 6+
 
 #### Ask for all permissions at once. If any permission is denied the application will exit. If all permissions granted continue with MainActivity.
 
